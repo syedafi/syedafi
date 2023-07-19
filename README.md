@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SYEDA FIRDOSE</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="Coding" width="400" scr="C:\Users\sammu\Downloads\AdobeStock_230430579_Video_HD_Preview.mov">
+<img align="right" alt="Coding" width="400" scr="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedafi&label=Profile%20views&color=0e75b6&style=flat" alt="syedafi" /> </p>
 
