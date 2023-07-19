@@ -1,16 +1,25 @@
-### Hi there 👋
+[![MasterHead](https://in.images.search.yahoo.com/images/view;_ylt=AwrKArIFt7dkoIIaEmm9HAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkA2VjNmZiZGZiZjQyMGM5Mjc5MDJjNjYzZmVlZjZiMDJhBGdwb3MDMTAEaXQDYmluZw--?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dmasterhead%2Bbanner%2Bon%2Bpython%2Bgif%26ei%3DUTF-8%26type%3DE211IN826G0%26fr%3Dmcafee%26fr2%3Dp%253As%252Cv%253Ai%252Cm%253Asb-top%26tab%3Dorganic%26ri%3D10&w=480&h=476&imgurl=surfingthecode.com%2Fimg%2Fpython.gif&rurl=https%3A%2F%2Fsurfingthecode.com%2F5-dutch-programmers-you-should-know%2F&size=28.7KB&p=masterhead+banner+on+python+gif&oid=ec6fbdfbf420c927902c663feef6b02a&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&fr=mcafee&tt=5+Dutch+programmers+you+should+know+-+Surfing+the+code&b=0&ni=160&no=10&ts=&tab=organic&sigr=np8EntoDJtAM&sigb=pJmWPdfBOxhE&sigi=7XqHoj20.6k1&sigt=6_KsiniEzwnL&.crumb=26UPARKJsB8&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&type=E211IN826G0)](https://syedafi.io)
+<h1 align="center">Hi 👋, I'm SYEDA FIRDOSE</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
+<img align="right" alt="Coding" width="400" src="https://in.images.search.yahoo.com/images/view;_ylt=Awr1TckFtbdkcfAZxm29HAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzcxMTI3Y2MzYjY0YzhiNjhiNTIwNTVkNmJkMmU2MDIzBGdwb3MDMTIEaXQDYmluZw--?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Danimated%2Bcoding%2Bgif%26type%3DE211IN826G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D12&w=500&h=281&imgurl=media.giphy.com%2Fmedia%2Fko7twHhomhk8E%2Fgiphy.gif&rurl=https%3A%2F%2Fgiphy.com%2Fgifs%2Fcode-ko7twHhomhk8E&size=1807.5KB&p=animated+coding+gif&oid=71127cc3b64c8b68b52055d6bd2e6023&fr2=piv-web&fr=mcafee&tt=Code+GIF+-+Find+%26+Share+on+GIPHY&b=0&ni=21&no=12&ts=&tab=organic&sigr=WqIDU21inmcO&sigb=XjuCKqwHRWvQ&sigi=fVJ4At1rzv6X&sigt=V7wq2eXI3Ct0&.crumb=26UPARKJsB8&fr=mcafee&fr2=piv-web&type=E211IN826G0">
 
-<!--
-**syedafi/syedafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedafi&label=Profile%20views&color=0e75b6&style=flat" alt="syedafi" /> </p>
 
-Here are some ideas to get you started:
+- 📫 How to reach me **syedafirdose20@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/@syedafirdose20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@syedafirdose20" height="30" width="40" /></a>
+<a href="https://kaggle.com/syeda firdose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="syeda firdose" height="30" width="40" /></a>
+<a href="https://instagram.com/firdevs_fulin18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="firdevs_fulin18" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/syeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="syeda" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedafi&show_icons=true&locale=en&layout=compact" alt="syedafi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedafi&show_icons=true&locale=en" alt="syedafi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedafi&" alt="syedafi" /></p>
