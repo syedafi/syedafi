@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SYEDA FIRDOSE</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="Coding" width="400" scr="https://in.images.search.yahoo.com/images/view;_ylt=Awr1TckFtbdkcfAZxm29HAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzcxMTI3Y2MzYjY0YzhiNjhiNTIwNTVkNmJkMmU2MDIzBGdwb3MDMTIEaXQDYmluZw--?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Danimated%2Bcoding%2Bgif%26type%3DE211IN826G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D12&w=500&h=281&imgurl=media.giphy.com%2Fmedia%2Fko7twHhomhk8E%2Fgiphy.gif&rurl=https%3A%2F%2Fgiphy.com%2Fgifs%2Fcode-ko7twHhomhk8E&size=1807.5KB&p=animated+coding+gif&oid=71127cc3b64c8b68b52055d6bd2e6023&fr2=piv-web&fr=mcafee&tt=Code+GIF+-+Find+%26+Share+on+GIPHY&b=0&ni=21&no=12&ts=&tab=organic&sigr=WqIDU21inmcO&sigb=XjuCKqwHRWvQ&sigi=fVJ4At1rzv6X&sigt=V7wq2eXI3Ct0&.crumb=26UPARKJsB8&fr=mcafee&fr2=piv-web&type=E211IN826G0">
+<img align="right" alt="Coding" width="400" scr="https://giphy.com/gifs/code-ko7twHhomhk8E/tile">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedafi&label=Profile%20views&color=0e75b6&style=flat" alt="syedafi" /> </p>
 
@@ -22,4 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedafi&show_icons=true&locale=en" alt="syedafi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedafi&" alt="syedafi" /></p>
+
 
